@@ -5,6 +5,17 @@ email: myamanaka@live.com
 website: csmyamanaka.com
 license: MIT (See included "LICENSE" file for details)
 
+NOTE: PROJECT INCOMPLETE! STILL A WORK IN PROGRESS!
+
 Description:
 ============
-A C + SDL2 game of Karuta with glorious Bible verses.
+A C + SDL2 game of Karuta with glorious Bible verses. The verses are pulled from 
+the King James Version which, according to BibleGateway [1], is public domain.
+
+
+References:
+===========
+[1] Bible Gateway, "What Bibles on Bible Gateway are in the public domain?"
+      link: <https://support.biblegateway.com/hc/en-us/articles/360001403507-What-Bibles-on-Bible-Gateway-are-in-the-public-domain->
+      accessed: Thursday, 21st of January, 2021
+[] 
