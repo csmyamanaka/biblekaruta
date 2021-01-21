@@ -1,0 +1,10 @@
+Bible Karuta Game
+"biblekaruta"
+M. Yamanaka
+email: myamanaka@live.com
+website: csmyamanaka.com
+license: MIT (See included "LICENSE" file for details)
+
+Description:
+============
+A C + SDL2 game of Karuta with glorious Bible verses.
