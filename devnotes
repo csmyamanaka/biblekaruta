@@ -1,0 +1,5 @@
+Thurs, 21st of January, 2021
+  - Most of skeleton game logic written
+  - The "initBibleKG" function takes a double pointer at this time
+    not a big fan of this because it looks messy. May change later
+  TODO: implement drawing functions with SDL
