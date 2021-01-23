@@ -9,7 +9,7 @@
 
 #include "crosshair.h"
 
-int drawCrosshair(const Crosshair C){
+int drawCrosshair(Xhair C){
   /*
     Draw crosshair object
     Arguments:

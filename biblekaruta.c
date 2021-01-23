@@ -22,11 +22,12 @@ int initBibleKG(BibleKG** G){
   (*G)->w = 800;
   (*G)->h = 600;
   (*G)->t = "Bible Karuta";
-  (*G)->C.pos[0] = 0;
+  /*(*G)->C.pos[0] = 0;
   (*G)->C.pos[1] = 0;
   (*G)->C.gs = 0;
   (*G)->C.as = 0;
-  (*G)->C.fn = "sprite.png";
+  (*G)->C.fn = "sprite.png";*/
+  for(int i = 0; i < 5; i++) (*G)->C[i] = 0;
   return 0;
 }
 

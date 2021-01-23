@@ -3,3 +3,11 @@ Thurs, 21st of January, 2021
   - The "initBibleKG" function takes a double pointer at this time
     not a big fan of this because it looks messy. May change later
   TODO: implement drawing functions with SDL
+
+Fri, 22nd of January, 2021
+  - The crosshair used in the game can probably drawn using SDL's
+    drawing functions so it's probably not necessary to use a
+    spritesheet or anything like that. I kept the Crosshair struct
+    in crosshair.h just in case but I'll be using Xhair (which is
+    just int[5]) for the foreseeable future.
+  TODO: Still need to implement the SDL drawing functions

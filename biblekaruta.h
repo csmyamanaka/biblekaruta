@@ -37,7 +37,7 @@ typedef struct BibleKG{
   SDL_Event e;
   SDL_Window* win;
   SDL_Renderer* main;
-  Crosshair C;
+  Xhair C;
   int cards[500];
 } BibleKG;
 
